@@ -1,11 +1,11 @@
 # FractalGen PyTorch
 
 <p align="center">
-  <img src="FractalGen.png" alt="FractalGen" style="display:block; margin:auto; width:680px;" />
+  <img src="FractalGen.png" alt="FractalGen" style="display:block; margin:auto; width:380px;" />
 </p>
 
 <p align="center">
-  <img src="FractalGen+.png" alt="FractalGen+" style="display:block; margin:auto; width:680px;" />
+  <img src="FractalGen+.png" alt="FractalGen+" style="display:block; margin:auto; width:380px;" />
 </p>
 
 PyTorch implementation of Fractal Generative Models.
