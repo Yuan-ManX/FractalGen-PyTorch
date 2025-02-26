@@ -1,7 +1,7 @@
 # FractalGen PyTorch
 
 <p align="center">
-  <img src="FractalGen.png" alt="FractalGen" style="display:block; margin:auto; width:280px;" />
+  <img src="FractalGen.png" alt="FractalGen" style="display:block; margin:auto; width:480px;" />
 </p>
 
 
