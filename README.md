@@ -4,9 +4,6 @@
   <img src="FractalGen.png" alt="FractalGen" style="display:block; margin:auto; width:280px;" />
 </p>
 
-<p align="center">
-  <img src="FractalGen+.png" alt="FractalGen+" style="display:block; margin:auto; width:280px;" />
-</p>
 
 PyTorch implementation of Fractal Generative Models.
 
